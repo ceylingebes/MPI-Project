@@ -1,0 +1,15 @@
+8
+15
+1 2 3 4 5
+25
+2 1 chop 
+3 2 trim 
+4 2 enhance 
+5 3 reverse 
+6 3 split 
+7 4 trim 
+8 4 chop 
+AB
+CD
+EF
+GH
